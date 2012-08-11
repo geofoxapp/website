@@ -1,0 +1,88 @@
+body
+{
+	margin: 0;
+	padding: 0;
+	background: #121b42;
+	font: 77.5% "Lucida Sans Unicode", "Bitstream Vera Sans", "Trebuchet Unicode MS", "Lucida Grande", Verdana, Helvetica, sans-serif;
+
+}
+
+#container
+{
+	margin: 1em auto;
+	width: 655px;
+	background: #104591;
+	border-top:0px solid #fff;
+	border-left:8px solid #fff;
+	border-right:8px solid #fff;
+
+}
+
+#header { background: #104591;
+	text-align:center;
+	background-image:url('images/main_logo_650.png');
+	background-repeat:no-repeat;
+	background-position:0% 60%;
+	height:350px;
+	}
+	
+#mainnav { background-color: #121b42; }
+
+.separator {
+	background: #121b42;
+	float: left;
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	font: 77.5% "Lucida Sans Unicode", "Bitstream Vera Sans", "Trebuchet Unicode MS", "Lucida Grande", Verdana, Helvetica, sans-serif;
+color: #ccc;
+}
+
+hr{
+color:#121b42;
+background-color:#121b42;
+height:25px;
+}
+#logo{padding:0px; background-color:#111f44;}
+
+.article{
+margin-left:5px;
+color:#55aae1;
+text-spacing:5px;
+font-size:18pt;
+line-height:80%;
+
+}
+.article p{
+margin-left:20px;
+color:#3b95d7;
+font-size:16pt;
+border-right:1px solid #000;
+width:90%;
+}
+
+.ss{
+width:45%;
+height:45%;
+}
+#menu
+{
+	float: right;
+	width: 165px;
+	background: #6F9;
+}
+
+#contents
+{
+	float: left;
+	width: 440px;
+	background: #ff0000;
+	margin: 0 0 0 20px;
+}
+
+#footer
+{
+	clear: both;
+	background: #FFF;
+}
