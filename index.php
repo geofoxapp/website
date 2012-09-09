@@ -57,7 +57,7 @@
 </script>
 <script type="text/javascript">
 	try {
-		var piwikTracker = Piwik.getTracker(pkBaseURL + "piwik.php", 7);
+		var piwikTracker = Piwik.getTracker(pkBaseURL + "piwik.php", 8);
 		piwikTracker.trackPageView();
 		piwikTracker.enableLinkTracking();
 	} catch( err ) {}
